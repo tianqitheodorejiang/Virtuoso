@@ -16,3 +16,5 @@ The frontend of Virtuoso is built using Qt Creator. We have built a downloadable
 <br/>
 
 To download our application: https://drive.google.com/file/d/1V5JRJY4azmxalrYMWMvcUEpEfp8Q2YwD/view?usp=sharing
+
+User manual: https://drive.google.com/file/d/1H6fltIuke6WAwlxECKQZyp1jlHHJ71mW/view?usp=sharing
