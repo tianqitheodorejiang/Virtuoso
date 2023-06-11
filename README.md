@@ -3,7 +3,7 @@ AI musician using a hierarchical approach that combines LSTM and CNNs in order t
 
 <br/>
 <div align="center">
-<img src='images/diagram.png' width="50%"/>
+<img src='images/diagram.png' width="70%"/>
 </div>
 <br/>
 
@@ -11,7 +11,7 @@ The frontend of Virtuoso is built using Qt Creator. We have built a downloadable
 
 <br/>
 <div align="center">
-<img src='images/screenshot.png' width="50%"/>
+<img src='images/screenshot.png' width="70%"/>
 </div>
 <br/>
 
